@@ -1,0 +1,44 @@
+{
+	"myAds": {
+
+		"AdsController": {
+			
+			"NetworkAds": "admob",
+			
+			"OpenAdsAdmob": "ca-app-pub-3940256099942544/3419835294",
+			
+			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+			
+			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob4": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob5": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob6": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob7": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob8": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob9": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob10": "ca-app-pub-3940256099942544/1033173712",
+			
+			
+			"BannerFacebook1": "203828667610254_398033171523135",
+			"BannerFacebook2": "203828667610254_398033171523135",
+			
+			"InterstitialFacebook1": "203828667610254_398033618189757",
+			"InterstitialFacebook2": "203828667610254_398033618189757",
+			"InterstitialFacebook3": "203828667610254_398033618189757",
+			"InterstitialFacebook4": "203828667610254_398033618189757",
+			"InterstitialFacebook5": "203828667610254_398033618189757",
+			
+				
+			"Cpa": false,
+			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
+			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
+			"watchNow": false,
+			"Rating": false
+			
+		}
+
+	}
+}
